@@ -32,7 +32,7 @@ A Jupyter Notebook project to recommend restaurants based on user preferences.
 
 ## 📈 Contributions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavitraag&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavitraag&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavitraag&layout=compact&theme=radical)
 
 ![GSSOC(24) Badge](https://img.shields.io/badge/GSSOC-24-blue)
