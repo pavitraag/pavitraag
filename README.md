@@ -50,9 +50,8 @@ A Jupyter Notebook project to recommend restaurants based on user preferences.
 
 ## 📫 Contact Me
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [your-email@example.com](mailto:pavitraa@gmail.com)
 - LinkedIn: [Pavitra Agarwal](https://www.linkedin.com/in/pavitraag/)
-- Twitter: [@pavitraag](https://twitter.com/pavitraag)
 
 Thank you for visiting my profile! 😊
 
