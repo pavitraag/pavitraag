@@ -1,5 +1,4 @@
-# Hi there 👋, I'm Pavitra Agarwal
-
+# Hi there 👋, I'm Pavitraa G
 ## About Me
 
 I'm a passionate developer who loves to work on innovative projects and contribute to open-source. My interests include AI, web development, and creating useful tools.
