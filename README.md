@@ -5,20 +5,8 @@ I'm a passionate developer who loves to work on innovative projects and contribu
 
 ## 🔥 Popular Repositories
 
-### [my-captain](https://github.com/pavitraag/my-captain)
-An exciting project that...
-
 ### [robot_on_ice](https://github.com/pavitraag/robot_on_ice)
-A robot simulation on ice...
-
-### [CodeClauseInternship_Voice_assisstance](https://github.com/pavitraag/CodeClauseInternship_Voice_assisstance)
-Created a voice assistance similar to Alexa using Python.
-
-### [CodeClauseInternship_URLshortenerwithgui](https://github.com/pavitraag/CodeClauseInternship_URLshortenerwithgui)
-A URL shortener application with a graphical user interface in Python.
-
-### [CodeClauseInternship_AlarmClock_withgui](https://github.com/pavitraag/CodeClauseInternship_AlarmClock_withgui)
-An alarm clock with GUI developed in Python.
+A robot simulation on ice that has to move according to the user specified checkpoints.
 
 ### [Restaurant-Recommender](https://github.com/pavitraag/Restaurant-Recommender)
 A Jupyter Notebook project to recommend restaurants based on user preferences.
