@@ -15,20 +15,23 @@
   
 - ⚡ About Me: *Tech enthusiast and CSE student skilled in programming and innovation*
 - 📍 From **India**
-## Connect with me 
-<div id="badges" align = "left">
-   <a href="https://github.com/pavitraag">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
- <a href="https://www.linkedin.com/in/pavitraa-g/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:pavitraagopi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+## Let's Connect! 
+  <table align="" class="table table-dark">
+  <tr bg-dark>
+    <td align="center" widht=90>
+        <a href="https://www.linkedin.com/in/pavitraa-g/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=linkedin" />
+        </a>
+      <br>Linkedin
+    </td>
+    <td align="center" widht=90>
+        <a href="https://portfolio-pavitraags-projects.vercel.app/" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+        </a>
+        <br>Portfolio
+    </td>
+  </tr>
+</table>
  </div>  
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -88,25 +91,38 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<br />
-<table width="100%" align="center">
+<table align="center">
 <tr>
-<td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavitraag&theme=2077" alt="Profile Summary">
-</td>
+  <td>
+    <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavitraag&theme=highcontrast" alt="Profile Summary"/>
+  </td>
+  <td>
+    <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavitraag&theme=highcontrast" alt="Stats"/>
+  </td>
+</tr>
+<tr>
+  <td>
+    <img height="168em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pavitraag&hide=HTML,css,scss,cmake,swift&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=github-readme-stats" alt="Top Languages"/>
+  </td>
+  <td>
+    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavitraag&theme=highcontrast" alt="Most Commit Language"/>
+  </td>
+</tr>
+<tr>
+  <td>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavitraag&hide=HTML,css,scss,cmake,swift&layout=donut&theme=highcontrast&hide_border=true" alt="Donut Languages"/>
+  </td>
+  <td>
+    <img height="166em" src="https://github-readme-stats.vercel.app/api?username=pavitraag&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" alt="GitHub Stats"/>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center">
+    <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=pavitraag&theme=highcontrast&hide_border=true" alt="Streak Stats"/>
+  </td>
 </tr>
 </table>
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=pavitraag&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
-</td>
-<td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=pavitraag&theme=midnight-purple" alt="Streak Stats"/>
-</td>
-</tr>
-</table>
-</br>
+
 
 <div align="center">
     <h1>
