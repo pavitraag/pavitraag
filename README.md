@@ -100,6 +100,13 @@
 <img height="166em" src="https://github-readme-stats.vercel.app/api?username=pavitraag&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />
 <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=pavitraag&theme=highcontrast&hide_border=true" />
 
+
+<hr>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shariq2003&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="shariq2003" />
+
+</details>                     
+
 </div><br>
 <div align="center">
     <h1>
