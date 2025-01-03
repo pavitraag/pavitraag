@@ -103,9 +103,12 @@
 
 <hr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavitraag&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="shariq2003" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavitraag&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="pavitraag" />
 
-</details>                     
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=pavitraag&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
 </div><br>
 <div align="center">
