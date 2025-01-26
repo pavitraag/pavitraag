@@ -101,8 +101,6 @@
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavitraag&theme=highcontrast" alt="Most Commit Language">
 <img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pavitraag&hide=HTML,css,scss,cmake,swift&layout=donut&theme=highcontrast&hide_border=true" alt="Donut Top Languages">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavitraag&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="Activity Graph">
-
 
 ### 🔝 Top Contributed Repo
 <p align="center">
