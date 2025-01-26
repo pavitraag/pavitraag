@@ -99,7 +99,8 @@
 <img height="166em" src="https://github-readme-stats.vercel.app/api?username=pavitraag&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />
 <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=pavitraag&theme=highcontrast&hide_border=true" />
 
-
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavitraag&theme=highcontrast">
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/ username=pavitraag&hide=HTML,css,scss,cmake,swift&layout=donut&theme=highcontrast&hide_border=true" />
 <hr>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavitraag&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="pavitraag" />
 
