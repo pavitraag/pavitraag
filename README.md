@@ -91,18 +91,18 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavitraag&theme=highcontrast" alt="Profile Details">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavitraag&theme=highcontrast" alt="GitHub Stats">
+<img height="168em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pavitraag&hide=HTML,css,scss,cmake,swift&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=github-readme-stats" alt="Top Languages">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavitraag&theme=highcontrast">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavitraag&theme=highcontrast">
-<img height="168em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pavitraag&hide=HTML,css,scss,cmake,swift&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=github-readme-stats" alt="top langs" /> 
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=pavitraag&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" alt="GitHub ReadMe Stats">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=pavitraag&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats">
 
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=pavitraag&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />
-<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=pavitraag&theme=highcontrast&hide_border=true" />
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavitraag&theme=highcontrast" alt="Most Commit Language">
+<img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pavitraag&hide=HTML,css,scss,cmake,swift&layout=donut&theme=highcontrast&hide_border=true" alt="Donut Top Languages">
 
-<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavitraag&theme=highcontrast">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/ username=pavitraag&hide=HTML,css,scss,cmake,swift&layout=donut&theme=highcontrast&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavitraag&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="Activity Graph">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavitraag&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="pavitraag" />
 
 ### 🔝 Top Contributed Repo
 <p align="center">
