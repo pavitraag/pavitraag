@@ -95,8 +95,7 @@
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavitraag&theme=highcontrast">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavitraag&theme=highcontrast">
 <img height="168em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pavitraag&hide=HTML,css,scss,cmake,swift&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=github-readme-stats" alt="top langs" /> 
-<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavitraag&theme=highcontrast">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavitraag&hide=HTML,css,scss,cmake,swift&layout=donut&theme=highcontrast&hide_border=true" />
+
 <img height="166em" src="https://github-readme-stats.vercel.app/api?username=pavitraag&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />
 <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=pavitraag&theme=highcontrast&hide_border=true" />
 
